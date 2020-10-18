@@ -1,7 +1,7 @@
 def turn_count(board)
-  board == 3
-  board.each
-  board += 1
+  count == 3
+  board.each |board|
+  count += 1
   
 end
 
