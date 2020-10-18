@@ -1,5 +1,5 @@
 def turn_count(board)
-  count == 3
+  count == 0
   board.each |board|
   display_board(board)
   count += 1
