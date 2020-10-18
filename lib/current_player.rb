@@ -1,6 +1,6 @@
 def turn_count(board)
-  count = 3
-  count += 1
+  board = 3
+  board += 1
   
 end
 
